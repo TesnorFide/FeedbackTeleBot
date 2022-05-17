@@ -1,6 +1,6 @@
 <?php
 header('Content-Type: text/html; charset=utf-8');
-$token = '5130305823:AAEZ50RUWdt_vz2AzIuB-MnYYoXIbcdNTTc';
+$token = 'TOKEN';
 $fbchat = 'https://t.me/test_feedbackbot';
 $help = 'Привет, вот команды, что я понимаю:
 /help - справка по изпользованию бота
